@@ -1,64 +1,62 @@
-# Sup, I'm Harits
+# Hi there, I'm Harits! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-### Robotics Engineer and Control Systems Specialist
+### 🤖 Robotics Engineer and Control System Specialist
 
-I am a **Electrical/Control Engineering graduate** currently interns as a **Robotics Engineer** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
+I am an **Electrical/Control Engineering graduate** currently interns as a **Robotics Engineer** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
 
-| Robotics | Embedded Systems | Control Theory | Data and Machine Learning |
+| 🦾 Robotics | 🔌 Embedded Systems | 🎛️ Control Theory | 📊 Data & ML |
+| :---: | :---: | :---: | :---: |
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-#### Energy & Control Systems
-**Adaptive H-∞ Filter for Li-Ion Battery SoC Estimation**
-> *State-of-the-art battery modeling research.*
-> - Developed a **3rd-Order Equivalent Circuit Model (ECM)** with parameters calculated online using **Recursive Least Squares (RLS)**.
-> - Estimated State of Charge (SoC) using **Adaptive H-Infinity Filter (AHIF)**, comparing performance against HIF and Extended Kalman Filter (EKF).
+#### 🔋 Energy & Control Systems
 
-#### Machine Learning & Data
-**Papua Wildfire Prediction System**
-> *Environmental monitoring using Satellite Data.*
-> - Built a classification model to predict wildfire potential in Papua.
-> - Utilized **Google Earth Engine** for satellite imaging data processing and machine learning analysis.
+| Project | Description & Tech |
+| :--- | :--- |
+| **Adaptive H-∞ Battery Filter** | **State-of-the-art SoC Estimation.** Developed a 3rd-Order Equivalent Circuit Model (ECM) with online parameter calculation via Recursive Least Squares (RLS).<br><br>![Matlab](https://img.shields.io/badge/Matlab-MathWorks-orange) ![Python](https://img.shields.io/badge/Python-Data-blue) ![Control Theory](https://img.shields.io/badge/Control-H_Infinity-red) |
+| **Xirkabit Block Platform** | **EdTech for Embedded Systems.** Built a MakeCode/Block-based programming interface for Xirkabit board to facilitate learning.<br><br>![TypeScript](https://img.shields.io/badge/TypeScript-MakeCode-blue) ![Embedded](https://img.shields.io/badge/Hardware-Xirka-lightgrey) |
 
-**Crowd and Traffic Monitoring System for FTUI Bus Stops**
-> *Monitoring System on Faculty of Engineering, Universitas Indonesia's Bus Stop*
-> - Implemented real-time crowd density detection using YOLOv8 object detection model trained on the COCO
-dataset.
-> - Designed and calibrated a vehicle speed detection system using dual distance sensors.
+#### 👁️ Computer Vision & Machine Learning
 
-**Automated Job Market Scraper**
-> *Data gathering automation.*
-> - Developed a **Selenium-based bot** to aggregate job vacancy data from major Indonesian platforms (Kalibrr, Glints, Jobstreet) for market analysis.
-
-#### Education Technology
-**Xirkabit Block Programming Platform**
-> *Collaborative project with Xirka & ICDeC.*
-> - Developed a **MakeCode/Block-based programming** interface for the Xirkabit board to facilitate embedded systems education.
+| Project | Description & Tech |
+| :--- | :--- |
+| **Smart Bus Stop Monitor** | **Real-time Monitoring at FTUI.** Implemented crowd density detection (YOLOv8) and vehicle speed calibration using dual distance sensors.<br><br>![YOLOv8](https://img.shields.io/badge/CV-YOLOv8-green) ![Python](https://img.shields.io/badge/Python-Vision-blue) ![Sensors](https://img.shields.io/badge/Hardware-Ultrasonic-lightgrey) |
+| **Papua Wildfire Prediction** | **Environmental Satellite Monitoring.** Classification model to predict wildfire potential using Earth Engine data.<br><br>![GEE](https://img.shields.io/badge/Google-Earth_Engine-green) ![ML](https://img.shields.io/badge/ML-Classification-blue) |
+| **Job Market Scraper** | **Data Automation.** Selenium bot to aggregate vacancies from Kalibrr, Glints, & Jobstreet for analysis.<br><br>![Selenium](https://img.shields.io/badge/Bot-Selenium-43B02A) ![Python](https://img.shields.io/badge/Python-Scripting-blue) |
 
 ---
 
-### Ongoing Work & Experiments
+### 🚧 Experimental & Ongoing
 
-- **Mecanum Robot RL (Simulation):** Implementing **Reinforcement Learning** agents to control a mecanum-wheeled robot in an OpenGL-based simulation environment.
-- **CNN from Scratch:** Building Convolutional Neural Networks purely from foundational math without relying on high-level abstraction frameworks.
+> *Exploring the depths of algorithms from scratch.*
+
+* **🤖 Mecanum Robot RL** `Simulation`
+    * Implementing **Reinforcement Learning** (PPO) agents to control a mecanum robot in an OpenGL environment.
+    * ![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-white) ![RL](https://img.shields.io/badge/Algorithm-PPO-red)
+
+* **🧠 CNN from Scratch** `Deep Learning`
+    * Building Convolutional Neural Networks purely from foundational math (No high-level APIs).
+    * ![Math](https://img.shields.io/badge/Math-Linear_Algebra-lightgrey) ![Python](https://img.shields.io/badge/Python-NumPy-blue)
 
 ---
 
-### Continuous Learning
+### 📚 Continuous Learning
 
-I actively refine my fundamental skills, most notably, you can view my problem set on CS50s on my github repos:
+*I continuously learn across many different fields which I find interesting. On my Github, most notably, you can view my problem set on CS50 Classes*
 
 ![CS50 SQL](https://img.shields.io/badge/CS50-SQL-black?style=flat-square)
 ![CS50 Python](https://img.shields.io/badge/CS50-Python-black?style=flat-square)
@@ -66,7 +64,7 @@ I actively refine my fundamental skills, most notably, you can view my problem s
 
 ---
 
-### Connect
+### 📫 Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-Haritsyam%20Anshari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haritsyam-anshari/)
 [<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harits.edu@gmail.com)
