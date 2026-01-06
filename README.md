@@ -1,16 +1,71 @@
-## Hi there 👋
+# Sup, I'm Harits
 
-<!--
-**harits-edu/harits-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Robotics Engineer and Control Systems Specialist
 
-Here are some ideas to get you started:
+I am a **Electrical/Control Engineering graduate** currently working as a **Robotics Engineer Intern** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on bridging the gap between hardware and software—combining embedded systems, advanced control theory, and machine learning to build intelligent, robust systems.
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F58225?style=for-the-badge&logo=platformio&logoColor=white)
+
+---
+
+### Featured Projects
+
+#### Energy & Control Systems
+**Adaptive H-∞ Filter for Li-Ion Battery SoC Estimation**
+> *State-of-the-art battery modeling research.*
+> - Developed a **3rd-Order Equivalent Circuit Model (ECM)** with parameters calculated online using **Recursive Least Squares (RLS)**.
+> - Estimated State of Charge (SoC) using **Adaptive H-Infinity Filter (AHIF)**, comparing performance against HIF and Extended Kalman Filter (EKF).
+
+#### Machine Learning & Data
+**Papua Wildfire Prediction System**
+> *Environmental monitoring using Satellite Data.*
+> - Built a classification model to predict wildfire potential in Papua.
+> - Utilized **Google Earth Engine** for satellite imaging data processing and machine learning analysis.
+
+**Automated Job Market Scraper**
+> *Data gathering automation.*
+> - Developed a **Selenium-based bot** to aggregate job vacancy data from major Indonesian platforms (Kalibrr, Glints, Jobstreet) for market analysis.
+
+#### Education Technology
+**Xirkabit Block Programming Platform**
+> *Collaborative project with Xirka & ICDeC.*
+> - Developed a **MakeCode/Block-based programming** interface for the Xirkabit board to facilitate embedded systems education.
+
+---
+
+### Ongoing Work & Experiments
+
+- **Mecanum Robot RL (Simulation):** Implementing **Reinforcement Learning** agents to control a mecanum-wheeled robot in an OpenGL-based simulation environment.
+- **CNN from Scratch:** Building Convolutional Neural Networks purely from foundational math without relying on high-level abstraction frameworks.
+
+---
+
+### Continuous Learning
+
+I actively refine my computer science fundamentals through Harvard's CS50 coursework:
+
+![CS50 SQL](https://img.shields.io/badge/CS50-SQL-black?style=flat-square)
+![CS50 Python](https://img.shields.io/badge/CS50-Python-black?style=flat-square)
+![CS50 R](https://img.shields.io/badge/CS50-R-black?style=flat-square)
+
+---
+
+### Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-Haritsyam%20Anshari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haritsyam-anshari/)
+[<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harits.edu@gmail.com)
