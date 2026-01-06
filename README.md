@@ -1,10 +1,10 @@
 # Hi there, I'm Harits! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-### 👾 Robotics Engineer and Control System Specialist
+### <|°_°|> Robotics Engineer and Control System Specialist
 
 I am an **Electrical/Control Engineering graduate** currently interns as a **Robotics Engineer** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
 
-| <|°_°|> Robotics | 🔌 Embedded Systems | 🎛️ Control Theory | 📊 Data & ML |
+| 👾 Robotics | 🔌 Embedded Systems | 🎛️ Control Theory | 📊 Data & ML |
 | :---: | :---: | :---: | :---: |
 
 ---
