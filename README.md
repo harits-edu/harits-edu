@@ -1,23 +1,23 @@
 # Hi there, I'm Harits! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-### 🤖 Robotics Engineer and Control System Specialist
+### 👾 Robotics Engineer and Control System Specialist
 
 I am an **Electrical/Control Engineering graduate** currently interns as a **Robotics Engineer** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
 
-| 🦾 Robotics | 🔌 Embedded Systems | 🎛️ Control Theory | 📊 Data & ML |
+| <|°_°|> Robotics | 🔌 Embedded Systems | 🎛️ Control Theory | 📊 Data & ML |
 | :---: | :---: | :---: | :---: |
 
 ---
 
 ### 🛠️ Tech Stack
 
+Tho, It seems like I have very little tech stacks, I assure you, that on a basic level, I actually learn many things.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
