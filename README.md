@@ -9,7 +9,7 @@ I am an **Electrical/Control Engineering graduate** currently interns as a **Rob
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 Tho, It seems like I have very little tech stacks, I assure you, that on a basic level, I actually learn many things.
 
@@ -21,16 +21,16 @@ Tho, It seems like I have very little tech stacks, I assure you, that on a basic
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🔋 Energy & Control Systems
+#### Energy & Control Systems
 
 | Project | Description & Tech |
 | :--- | :--- |
 | **Adaptive H-∞ Battery Filter** | **State-of-the-art SoC Estimation.** Developed a 3rd-Order Equivalent Circuit Model (ECM) with online parameter calculation via Recursive Least Squares (RLS).<br><br>![Matlab](https://img.shields.io/badge/Matlab-MathWorks-orange) ![Python](https://img.shields.io/badge/Python-Data-blue) ![Control Theory](https://img.shields.io/badge/Control-H_Infinity-red) |
 | **Xirkabit Block Platform** | **EdTech for Embedded Systems.** Built a MakeCode/Block-based programming interface for Xirkabit board to facilitate learning.<br><br>![TypeScript](https://img.shields.io/badge/TypeScript-MakeCode-blue) ![Embedded](https://img.shields.io/badge/Hardware-Xirka-lightgrey) |
 
-#### 👁️ Computer Vision & Machine Learning
+#### Computer Vision & Machine Learning
 
 | Project | Description & Tech |
 | :--- | :--- |
@@ -40,21 +40,21 @@ Tho, It seems like I have very little tech stacks, I assure you, that on a basic
 
 ---
 
-### 🚧 Experimental & Ongoing
+### Experimental & Ongoing
 
 > *Exploring the depths of algorithms from scratch.*
 
-* **🤖 Mecanum Robot RL** `Simulation`
+* **Mecanum Robot RL** `Simulation`
     * Implementing **Reinforcement Learning** (PPO) agents to control a mecanum robot in an OpenGL environment.
     * ![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-white) ![RL](https://img.shields.io/badge/Algorithm-PPO-red)
 
-* **🧠 CNN from Scratch** `Deep Learning`
+* **CNN from Scratch** `Deep Learning`
     * Building Convolutional Neural Networks purely from foundational math (No high-level APIs).
     * ![Math](https://img.shields.io/badge/Math-Linear_Algebra-lightgrey) ![Python](https://img.shields.io/badge/Python-NumPy-blue)
 
 ---
 
-### 📚 Continuous Learning
+### Continuous Learning
 
 *I continuously learn across many different fields which I find interesting. On my Github, most notably, you can view my problem set on CS50 Classes*
 
@@ -64,7 +64,7 @@ Tho, It seems like I have very little tech stacks, I assure you, that on a basic
 
 ---
 
-### 📫 Connect
+### Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-Haritsyam%20Anshari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haritsyam-anshari/)
 [<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harits.edu@gmail.com)
