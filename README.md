@@ -2,9 +2,9 @@
 
 ### Robotics Engineer and Control Systems Specialist
 
-I am a **Electrical/Control Engineering graduate** currently working as a **Robotics Engineer Intern** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
+I am a **Electrical/Control Engineering graduate** currently interns as a **Robotics Engineer** at the **Indonesia Chip Design Collaborative Center (ICDeC)**.
 
-My work focuses on bridging the gap between hardware and software—combining embedded systems, advanced control theory, and machine learning to build intelligent, robust systems.
+| Robotics | Embedded Systems | Control Theory | Data and Machine Learning |
 
 ---
 
@@ -15,11 +15,6 @@ My work focuses on bridging the gap between hardware and software—combining em
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F58225?style=for-the-badge&logo=platformio&logoColor=white)
 
 ---
 
@@ -36,6 +31,12 @@ My work focuses on bridging the gap between hardware and software—combining em
 > *Environmental monitoring using Satellite Data.*
 > - Built a classification model to predict wildfire potential in Papua.
 > - Utilized **Google Earth Engine** for satellite imaging data processing and machine learning analysis.
+
+**Crowd and Traffic Monitoring System for FTUI Bus Stops**
+> *Monitoring System on Faculty of Engineering, Universitas Indonesia's Bus Stop*
+> - Implemented real-time crowd density detection using YOLOv8 object detection model trained on the COCO
+dataset.
+> - Designed and calibrated a vehicle speed detection system using dual distance sensors.
 
 **Automated Job Market Scraper**
 > *Data gathering automation.*
@@ -57,7 +58,7 @@ My work focuses on bridging the gap between hardware and software—combining em
 
 ### Continuous Learning
 
-I actively refine my computer science fundamentals through Harvard's CS50 coursework:
+I actively refine my fundamental skills, most notably, you can view my problem set on CS50s on my github repos:
 
 ![CS50 SQL](https://img.shields.io/badge/CS50-SQL-black?style=flat-square)
 ![CS50 Python](https://img.shields.io/badge/CS50-Python-black?style=flat-square)
